@@ -1,0 +1,7 @@
+# news_bot.py — Python dependencies
+# Install with: pip install -r requirements.txt
+
+python-telegram-bot==21.*
+aiohttp>=3.9
+feedparser>=6.0
+apscheduler>=3.10
